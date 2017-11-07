@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#find number of occurences in book.txt of the following names
 #area="Elizabeth Jane Mary Catherine Lydia"
 area[1]="Elizabeth"
 area[2]="Jane"
